@@ -1,2 +1,2 @@
 # sistema-biblioteca-fake-practica
-Sistema de biblioteca para practicar
+Sistema de biblioteca para practicar y testear
